@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tokoonlines",
+  "info": {
+    "singularName": "tokoonline",
+    "pluralName": "tokoonlines",
+    "displayName": "tokoonline",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "code": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "expireDate": {
+      "type": "datetime"
+    },
+    "isEnabled": {
+      "type": "boolean"
+    }
+  }
+}
